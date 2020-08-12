@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SergeSysoev/tt_test_task/issues"
   },
-  "homepage": "https://github.com/SergeSysoev/tt_test_task#readme"
+  "homepage": "https://github.com/SergeSysoev/tt_test_task#readme",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
 }
